@@ -1,5 +1,4 @@
 import java.io.IOException;
-
 public class StringReverserThroughStack {
    private String input;
    private String output;
